@@ -1,0 +1,6 @@
+[submodule "jukbox-fe"]
+	path = jukbox-fe
+	url = https://github.com/whenmoon/jukbox-fe.git
+[submodule "jukbox-be"]
+	path = jukbox-be
+	url = https://github.com/whenmoon/jukbox-be.git
