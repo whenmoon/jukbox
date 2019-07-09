@@ -8,7 +8,7 @@ The admin control panel generates tickets at a predefined inteval chosen by the 
 
 The user Dashboard shows a queue of songs that updates in realtime where they can interact with the playlist and see how long they have until they are due to recieve a new ticket from the venue.
 
-Please reference the submodules above for front and back-end code.
+Please reference the submodules above for front and back-end repos.
 
 The app is currently being deployed for demo purposes.
 
@@ -49,6 +49,7 @@ Stripe, and are stored in the user's account.
 * [Google Authentication](https://developers.google.com/identity/protocols/OAuth2)
 * [Spotify API](https://developer.spotify.com/)
 * [Stripe](https://stripe.com/docs) - Payment Processor
+* [Typescript](https://www.typescriptlang.org/)
 
 ## Contributors 
 * Tom Belton [GitHub](https://github.com/whenmoon) - [LinkedIn](https://www.linkedin.com/in/tom-belton-6193a3168/)
