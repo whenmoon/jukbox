@@ -8,9 +8,7 @@ The admin control panel generates tickets at a predefined inteval chosen by the 
 
 The user Dashboard shows a queue of songs that updates in realtime where they can interact with the playlist and see how long they have until they are due to recieve a new ticket from the venue.
 
-Front-end repo is [here](https://github.com/whenmoon/jukbox-fe/tree/master).
-
-Back-end repo is [here](https://github.com/whenmoon/jukbox-be/tree/master).
+Please reference the submodules above for front and back-end code.
 
 The app is currently being deployed for demo purposes.
 
